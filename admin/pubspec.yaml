@@ -1,0 +1,53 @@
+name: dairyadmin
+description: An application used by the admin to manage collections.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter_test:
+    sdk: flutter
+
+  firebase_core:
+  firebase_auth:
+  firebase_storage:
+  firebase_database:
+  firebase_messaging:
+
+  autocomplete_textfield:
+  flutter_neumorphic:
+  cloud_firestore:
+  google_sign_in:
+  connectivity:
+  settings_ui:
+  provider:
+  get_it:
+  intl:
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.8.0"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/google_logo.png
+    - assets/images/user_icon.png
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Regular.ttf
+        - asset: assets/fonts/Quicksand-Medium.ttf
+        - asset: assets/fonts/Quicksand-Light.ttf
+        - asset: assets/fonts/Quicksand-Bold.ttf
+          weight: 700

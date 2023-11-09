@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047823435815",
+    "project_id": "dairy-36666",
+    "storage_bucket": "dairy-36666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047823435815:android:cb0796afa34fb0eb19e602",
+        "android_client_info": {
+          "package_name": "com.vortech.collector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047823435815-g6aea069d7o15ah3ij1mpfpm35fjtijg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vortech.collector",
+            "certificate_hash": "8e1ee576a24769c1211ae0a8513f0a50e2eec265"
+          }
+        },
+        {
+          "client_id": "1047823435815-n8paaoov168rbeh7amlsnrii3rqspuol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpP26OVc0I9AP64Q-UlkZQzoEhx6cblJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047823435815-n8paaoov168rbeh7amlsnrii3rqspuol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
